@@ -1,0 +1,2 @@
+OWM_key = "60fb44151ca0b23ebde5de0a2427c413"
+flights_key = "3868072cccmsh16ab8b20993c00fp160aebjsne150d40d5907"
